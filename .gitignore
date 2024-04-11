@@ -1,0 +1,10 @@
+
+*.db
+.vs/pharmacy/v17/.suo
+/.vs/pharmacy/v17
+/.vs
+*.user
+*.filters
+*.vcxproj
+*.sln
+/x64
